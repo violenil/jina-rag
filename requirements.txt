@@ -3,3 +3,4 @@ llama-index-llms-ollama
 llama-index-vector-stores-docarray
 torch
 transformers
+jupyterlab
